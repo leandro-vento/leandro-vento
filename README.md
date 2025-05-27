@@ -1,3 +1,3 @@
-<img src = "matrix.gif" align = "right">
+<img src = "matrix.gif" width = "350px" align = "right">
 
 # Bem vindo!
